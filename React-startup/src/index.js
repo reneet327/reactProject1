@@ -7,11 +7,11 @@ ReactDOM.render(
       React.createElement('th', null, 'First Name'),
       React.createElement('th', null, 'Last Name')),
     React.createElement('tr', null,
-      React.createElement('td', null, 'Lisa'),
-      React.createElement('tr', null, 'Jones')),
+      React.createElement('td', null, 'Janet'),
+      React.createElement('tr', null, 'James')),
     React.createElement('tr', null,
-      React.createElement('td', null, 'Bill'),
-      React.createElement('tr', null, 'Jaffey'))
+      React.createElement('td', null, 'John'),
+      React.createElement('tr', null, 'Jameson'))
 
 
     )  ,document.getElementById('root')
